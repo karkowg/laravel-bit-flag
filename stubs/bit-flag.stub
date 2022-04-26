@@ -1,0 +1,9 @@
+<?php
+
+namespace DummyNamespace;
+
+use Karkow\BitFlag\Laravel\BitFlag;
+
+final class DummyClass extends BitFlag
+{
+}
